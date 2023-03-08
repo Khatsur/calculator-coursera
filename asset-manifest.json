@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/khatsur.github.io/calculator-coursera/static/css/main.4ee91bd1.css",
+    "main.js": "/khatsur.github.io/calculator-coursera/static/js/main.b23607ee.js",
+    "index.html": "/khatsur.github.io/calculator-coursera/index.html",
+    "main.4ee91bd1.css.map": "/khatsur.github.io/calculator-coursera/static/css/main.4ee91bd1.css.map",
+    "main.b23607ee.js.map": "/khatsur.github.io/calculator-coursera/static/js/main.b23607ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee91bd1.css",
+    "static/js/main.b23607ee.js"
+  ]
+}
